@@ -1,0 +1,12 @@
+DEBUG:root:Successfully fetched all data
+DEBUG:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' prod_type text , product_qty int)' at line 1
+DEBUG:root:Suscessfully table created
+DEBUG:root:1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '04 hsjhd,hd dg, gd gd , dg gd)' at line 1
+DEBUG:root:Successfully inserted data
+DEBUG:root:Successfully fetched all data
+DEBUG:root:Successfully inserted data
+DEBUG:root:Successfully deleted from table
+WARNING:root:Successfully updated data into table
+DEBUG:root:Successfully fetched all data
+DEBUG:root:Successfully dropped table
+DEBUG:root:Successfully fetched all data
